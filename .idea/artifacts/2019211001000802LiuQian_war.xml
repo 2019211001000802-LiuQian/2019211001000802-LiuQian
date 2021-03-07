@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="2019211001000802LiuQian:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>2019211001000802LiuQian</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="LiuQian2019211001000802-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="2019211001000802LiuQian:war exploded" />
+    </root>
+  </artifact>
+</component>
