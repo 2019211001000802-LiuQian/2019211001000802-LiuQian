@@ -1,7 +1,0 @@
-package com.LiuQian.week2.demo;
-
-public class HelloWorld {
-    public static void main(String[] args) {
-        System.out.println("HelloWorld");
-    }
-}
