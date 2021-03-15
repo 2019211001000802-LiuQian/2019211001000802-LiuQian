@@ -5,7 +5,7 @@
          version="4.0">
     <servlet>
         <servlet-name>LiuQian</servlet-name>
-        <servlet-class>com.LiuQian.week2.demo.HelloWorldServlet</servlet-class>
+        <servlet-class>com.LiuQian.week2.Demo.HelloWorldServlet</servlet-class>
     </servlet>
     <servlet-mapping>
         <servlet-name>LiuQian</servlet-name>
