@@ -7,8 +7,17 @@
         <servlet-name>Liu Qian</servlet-name>
         <servlet-class>com.LiuQian.week2.Demo.HelloWorldServlet</servlet-class>
     </servlet>
+
+    <servlet>
+        <servlet-name>RegisterServlet</servlet-name>
+        <servlet-class>com.LiuQian.week3.Demo.RegisterServlet</servlet-class>
+    </servlet>
     <servlet-mapping>
         <servlet-name>Liu Qian</servlet-name>
         <url-pattern>/hello</url-pattern>
+    </servlet-mapping>
+    <servlet-mapping>
+        <servlet-name>RegisterServlet</servlet-name>
+        <url-pattern>/register</url-pattern>
     </servlet-mapping>
 </web-app>
