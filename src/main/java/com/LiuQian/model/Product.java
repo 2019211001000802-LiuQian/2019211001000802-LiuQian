@@ -2,6 +2,7 @@ package com.LiuQian.model;
 
 import java.io.InputStream;
 
+
 public class Product {
     private int  productId;
     private int categoryId;

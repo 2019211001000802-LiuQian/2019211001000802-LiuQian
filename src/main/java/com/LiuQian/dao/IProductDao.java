@@ -1,5 +1,6 @@
 package com.LiuQian.dao;
 
+
 import com.LiuQian.model.Product;
 
 import java.sql.Connection;
