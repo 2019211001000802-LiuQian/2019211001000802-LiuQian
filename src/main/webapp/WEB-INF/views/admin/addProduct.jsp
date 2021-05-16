@@ -35,7 +35,7 @@
 										
 										<!-- loop_end -->
 										
-										</select>
+								</select>
 				            </div>
 				            <div class="form-group col-md-6">
 				                <input type="file" name="picture" class="form-control" required="required" placeholder="picture">
